@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaiser-Junior
+- 👋 Hi, I’m @Kaiser-Junior. I'm Junior.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning and researching about JAVA!
 - ⚡ Fun fact: Progammer don't how to use excel and word, Am i right? 
