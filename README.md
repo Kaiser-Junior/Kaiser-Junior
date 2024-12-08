@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaiser-Junior. I'm Junior.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning and researching about JAVA!
+- 🌱 I’m currently learning and researching about Front-End-Developing!
 - ⚡ Fun fact: Progammer don't how to use excel and word, Am i right? 
 
 <!---
